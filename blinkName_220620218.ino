@@ -41,9 +41,9 @@ void loop() {
 // S
 
     dot();
-    delay(MorseCodeSpace);
+    delay(morseCodeSpace);
     dot();
-    delay(MorseCodeSpace);
+    delay(morseCodeSpace);
     dot();
     
 // Letter Space
@@ -66,11 +66,11 @@ void loop() {
 // P
 
     dot();
-    delay(MorseCodeSpace);
+    delay(morseCodeSpace);
     line();
-    delay(MorseCodeSpace);
+    delay(morseCodeSpace);
     line();
-    delay(MorseCodeSpace);
+    delay(morseCodeSpace);
     dot();
     
 // Letter Space
@@ -79,11 +79,11 @@ void loop() {
 // H
 
     dot();
-    delay(MorseCodeSpace);
+    delay(morseCodeSpace);
     dot();
-    delay(MorseCodeSpace);
+    delay(morseCodeSpace);
     dot();
-    delay(MorseCodeSpace);
+    delay(morseCodeSpace);
     dot();
     
 // Letter Space
@@ -92,7 +92,7 @@ void loop() {
 // A
 
     dot();
-    delay(MorseCodeSpace);
+    delay(morseCodeSpace);
     line();
     
 // Letter Space
@@ -101,7 +101,7 @@ void loop() {
 // N
 
     line();
-    delay(MorseCodeSpace);
+    delay(morseCodeSpace);
     dot();
     
 // Letter Space
@@ -110,7 +110,7 @@ void loop() {
 // I
 
     dot();
-    delay(MorseCodeSpace);
+    delay(morseCodeSpace);
     dot();
     
 // Letter Space
@@ -124,4 +124,3 @@ void loop() {
     delay(letterSpace);
     
 }
-
